@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+modindex.html
+modapp.js
 __pycache__/
 *.py[cod]
 *$py.class
