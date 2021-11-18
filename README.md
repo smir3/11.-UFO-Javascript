@@ -7,9 +7,9 @@ Results:
 The webpage can be accessed by opening the index.html document in this repository. Once on the page, input the date, city, state, country, and/or shape values into the respective filters boxes. Press enter on your keyboard and the UFO Sightings data will be generated in the table to the right.
 Image of input into filters box, image of input in shape state, showing the table generated.
 
-![](.png)
-
-
+![](static/images/datafilter.png)
+![](static/images/statefilter.png)
+![](static/images/shapefilter.png)
 
 Summary:
 
