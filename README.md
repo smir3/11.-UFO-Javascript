@@ -8,9 +8,6 @@ The webpage can be accessed by opening the index.html document in this repositor
 Image of input into filters box, image of input in shape state, showing the table generated.
 
 
-![](static/images/datafilter.png)
-
-
 ![](static/images/statefilter.png)
 
 
