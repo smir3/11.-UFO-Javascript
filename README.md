@@ -20,3 +20,17 @@ One drawback of this webpage is that there are only a few filtering criteria tha
 Two additional recommendation for further development:
 1) It would be better to have a dropdown menu for the filters to give specific dates, cities, states, and shapes for the user to filter from. This would ensure that each time they search, there is data generated in the data table. 
 2) Another recommendation for further development is to automatically generate visualizations based on the data, to visually display the duration, number of sightings, and shape of the sighting.
+
+## File Directory
+- Static folder
+  - css
+    - style.css
+  - js
+    - app.js
+    - data.js
+  - images
+    - PNGs for ReadMe      
+
+The updated app.js file with the code for the challenge.
+The updated index.html file.
+The data.js file.
